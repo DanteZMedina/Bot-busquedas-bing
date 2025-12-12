@@ -26,7 +26,8 @@ Incluye:
 ### Opción A: Clonar con Git
 ```bash
 git clone https://github.com/DanteZMedina/Bot-busquedas-bing.git
-cd TU_REPO
+cd Bot-busquedas-bing
+
 ```
 ###  Opción B: Descargar ZIP
 
